@@ -1,0 +1,20 @@
+.btn_coustom {
+    margin: 20px 10px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    color:#2cc94ecc;
+    box-shadow: 5px 17px 32px;
+    text-transform: capitalize;
+    border: 2px solid green;
+    padding: 7px 25px;
+    border-radius: 50px;
+    transition: .8s;
+    
+}
+.btn_coustom:hover{
+ background-color: #66d59b7a;
+}
+.img_sec img{
+   padding-top: 10px;
+}
